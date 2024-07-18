@@ -18,10 +18,10 @@ class Car:
   def horn(self):
     print('Beeeeep')
 
-  # objs are the same variable that get a class in themselves
 
 
-#-------------  NEW CRATE OUR OBJ BUILDING ON THE CLASS DEFINED ---------------------
+
+#------ NEW CRATE OUR OBJ from BUILDING ON THE CLASS DEFINED acted as blue print---------------------
     
 mehdimachine=Car('red',50,'pride z4')
 

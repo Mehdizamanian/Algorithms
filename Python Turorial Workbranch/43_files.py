@@ -8,6 +8,13 @@
 
 
 
+# file methods 
+# f.tell()
+# f.seek()
+# f.close()
+
+
+
 
 # -------------------------exercises---------------
 
